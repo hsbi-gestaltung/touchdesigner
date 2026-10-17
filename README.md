@@ -18,6 +18,11 @@ Each component has its own README with the TouchDesigner version it was built in
 1. Copy the `_template/` folder into `components/` and rename it, e.g. `components/osc-router/`.
 2. Put your `.tox` in it, named like the folder (`osc-router.tox`).
 3. Fill in the README in your folder. A short GIF or screenshot (`preview.gif`) helps a lot.
+4. Commit and push it directly to `main`.
+
+No Git? Open the `components/` folder on GitHub, use **Add file → Upload files** and choose **Commit directly to the `main` branch**.
+
+Not a member of the organization yet? Your upload will automatically become a pull request, and we'll merge it. Or ask to be added.
 
 ### Conventions
 
