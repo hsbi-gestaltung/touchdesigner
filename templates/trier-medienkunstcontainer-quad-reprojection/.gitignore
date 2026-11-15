@@ -1,0 +1,17 @@
+# TouchDesigner: automatische Versionen und Backups
+Backup/
+*.[0-9]*.toe
+CrashAutoSave.*
+*.toe.dir/
+*.toe.toc
+
+# Exporte (grosse Videodateien)
+renders/
+
+# Lokale Werkzeuge
+.claude/
+.tdmcp/
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
